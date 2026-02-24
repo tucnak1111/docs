@@ -11,6 +11,7 @@
   "navigation": {
     "pages": [
       "introduction",
+      "partners",
       {
         "group": "Legal",
         "icon": "gavel",
@@ -18,8 +19,7 @@
           "legal/privacy-policy",
           "legal/terms-of-service"
         ]
-      },
-      "partners"
+      }
     ]
   },
   "navbar": {
